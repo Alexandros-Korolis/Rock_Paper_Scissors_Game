@@ -1,0 +1,31 @@
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.btnRock,.btnPaper,.btnScissors {
+    height: 20vh;
+    width: 40vh;
+    font-size: 30px;
+}
+
+.winnerContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.score {
+    font-size: 30px;
+}
+
+.outPutContainer 
+{
+    display: flex;
+    justify-content: center;
+}
+
+.outPut {
+    font-size: 20px;
+}
